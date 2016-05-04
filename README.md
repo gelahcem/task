@@ -1,8 +1,3 @@
-## Yii Project Blueprints Chapter 1 Source Code
-
-The following source code is the project for Chapter 1 of Yii Project Blueprints
-ISBN-CH: 978-1-78328-773-4_01
-
 ### A Task Management Application
 
 ### Requirements
