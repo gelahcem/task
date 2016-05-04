@@ -28,7 +28,7 @@
 php protected/yiic.php migrate up
 ```
 
-Once the database has been installed you can use the application.
+Once the database has been installed you can use the application. user:admin pass: admin
 
 ### License for Source Code
 
